@@ -1,7 +1,7 @@
 # MyWeather
 MyWeather - simple weather service.
 
-Page with example - https://lutien.github.io/myWeather/example/.
+Page with example - https://lutien.github.io/myWeather/example/index.html.
 
 To receive weather of current location you need to allow browser get your geolocation.
 
