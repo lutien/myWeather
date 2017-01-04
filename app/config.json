@@ -1,0 +1,14 @@
+{
+  "api":{
+    "url": {
+      "current": "http://api.openweathermap.org/data/2.5/weather",
+      "forecast": "http://api.openweathermap.org/data/2.5/forecast/daily"
+    },
+    "units": "metric",
+    "key": "0501ebca562c7687d623b676f3c05392"
+  },
+  "errorText": {
+    "geoApi": "Sorry, we can not determine your location.  You can use the search field.",
+    "default": "Sorry, something is going wrong. Try to put another city or try again later."
+  }
+}
