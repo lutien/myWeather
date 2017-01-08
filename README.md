@@ -1,11 +1,11 @@
 # MyWeather
 MyWeather - simple weather service.
 
-Page with example - https://lutien.github.io/myWeather/example/.
+Page with example - https://lutien.github.io/myWeather/example/index.html.
 
-To receive weather of current location you need to allow browser get your geolocation.
+To get weather of current location you need to allow browser get your geolocation.
 
-To receive data from api you need to allow browser get unsafe scripts, because github uses https for its domain 
+To get data from api you need to allow browser get unsafe scripts, because github uses https for it\`s domains 
 and [openweathermap](https://openweathermap.org/api) uses http on free account.
 
 Used technologies: React, Redux, PostCSS, Babel, Webpack
